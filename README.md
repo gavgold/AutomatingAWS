@@ -1,2 +1,2 @@
 # AutomatingAWS
-ACG Automating AWS Course Examples
+*ACG Automating AWS* Course Examples
